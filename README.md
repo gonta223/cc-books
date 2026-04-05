@@ -1,6 +1,6 @@
-# FlipBook UI
+# CC Books
 
-AIとの1日のコーディングセッションを、ページをめくれる「本」にして振り返れるツール。
+Claude Codeのセッションログを自動で「本」にしてくれるOSS。3D本棚 + ページめくりUI。
 
 
 ## これは何？
@@ -129,7 +129,7 @@ MIT
 
 ---
 
-# FlipBook UI (English)
+# CC Books (English)
 
 Your daily AI coding sessions, turned into a beautiful book you can flip through.
 
